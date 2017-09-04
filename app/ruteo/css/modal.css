@@ -1,0 +1,28 @@
+.button{
+    background-color:#2A548F;
+    border-radius:4px;
+    color:white;
+}
+
+.button:hover{
+    background-color:#2A548F;
+    border-radius:4px;
+}
+
+.modal-header{
+    background-color:#263238;
+    color:white;
+}
+.modal-header:hover{
+    background-color:#D80C0C;
+    color:white;
+}
+
+ .btn1{
+      background-color:#2C419D;
+      color:white;
+    }
+     .btn1:hover{
+      background-color:#2C419D;
+      color:white;
+    }
